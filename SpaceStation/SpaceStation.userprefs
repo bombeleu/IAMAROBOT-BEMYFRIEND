@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Menu\AlphaLogo.cs">
+    <Files>
+      <File FileName="I:\Backup uni work\Year 3\Assignment 1D\Assets\scripts\NPCAgent.cs" Line="197" Column="6" />
+      <File FileName="Assets\scripts\Menu\AlphaLogo.cs" Line="28" Column="51" />
+      <File FileName="Assets\scripts\Menu\AlphaFade.js" Line="42" Column="42" />
+      <File FileName="Assets\scripts\Menu\CameraMove.cs" Line="29" Column="3" />
+      <File FileName="Assets\scripts\Menu\DebugConsoleMenu.cs" Line="494" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

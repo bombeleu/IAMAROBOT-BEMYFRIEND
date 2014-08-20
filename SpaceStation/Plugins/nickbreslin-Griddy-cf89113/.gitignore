@@ -1,0 +1,9 @@
+App/
+App/*
+App.meta
+Archive/
+Archive/*
+Archive.meta
+
+README.textile.meta
+license.txt.meta
